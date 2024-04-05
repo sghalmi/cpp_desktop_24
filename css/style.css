@@ -275,10 +275,9 @@ button{
     #recipe3{
         display:none;
     }
-    #grid_button {
+    .grid_headers {
         display: grid;
         padding:20px;
-
         grid-template-columns: 75% 25%;
         border: 3px solid #ba0c0c;
     }
